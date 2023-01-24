@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eca7c4f1-8570-4d06-af70-9f98d2392b49" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/controlflow/For.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/controlflow/If.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/controlflow/Loop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/controlflow/When.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/controlflow/While.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/inheritance/Analista.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/inheritance/CalculadoraBonificacao.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/inheritance/Diretor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/inheritance/Funcionario.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/inheritance/Gerente.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/inheritance/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/inheritance/testaFuncionarios.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/initiatingOO/Conta.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/initiatingOO/ContaCorrente.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/initiatingOO/ContaPoupanca.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/initiatingOO/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/initiatingOO/TestaCCeRef.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/initiatingOO/TestaComportamentosConta.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/initiatingOO/TestaCondicoes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/initiatingOO/TestaLacos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/initiatingOO/testaContasDif.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2KggoUB8IikA28m9qS15pKLHAqX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/taira/PROJETOS/Kotlin/formation-kt"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/conceitos/estrepeticao" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="initiatingOO" />
+      <recent name="inheritance" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.MainKt (1)">
+    <configuration name="LoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controlflow.LoopKt" />
+      <module name="training-kt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="initiatingOO.MainKt" />
+      <module name="training-kt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.MainKt" />
+      <module name="training-kt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controlflow.WhenKt" />
+      <module name="training-kt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhileKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controlflow.WhileKt" />
+      <module name="training-kt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt (1)" />
+        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.LoopKt" />
+        <item itemvalue="Kotlin.WhileKt (1)" />
+        <item itemvalue="Kotlin.WhenKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eca7c4f1-8570-4d06-af70-9f98d2392b49" name="Changes" comment="" />
+      <created>1674401815250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674401815250</updated>
+      <workItem from="1674401816301" duration="11215000" />
+      <workItem from="1674421119527" duration="12415000" />
+    </task>
+    <servers />
+  </component>
+</project>
